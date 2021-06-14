@@ -1,3 +1,5 @@
+alphabet = "aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTuUvVwWxXyYzZ"
+
 def caesar_cipher(string, key)
   string = string.to_i
   puts string + 6
